@@ -1,0 +1,16 @@
+
+====================== ITERATION 1 ======================
+ERROR: the model API is unavailable, so I cannot produce a compliance briefing. Please retry when the service is back; I will not invent findings. (ConnectionError: APIConnectionError: simulated outage (--simulate-api-error))
+
+====================== SUMMARY ======================
+Total Iterations to complete:  1
+Total tool calls requested by LLM:  0
+Stop reason: model_api_error
+
+======================== END ========================
+
+>>>>> END RUN ID: a9ebf3e2 <<<<<
+
+ Time taken =  0.0503239631652832 s
+
+

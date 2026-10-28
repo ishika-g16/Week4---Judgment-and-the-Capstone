@@ -1,0 +1,18 @@
+Finding(load_id='LOAD_133', finding_type=<FindingType.LATE_PICKUP: 'late_pickup'>, severity=<Severity.ACT: 'act'>, evidence={'late_by_min': 95, 'pickup_complete_ts': 1759904900, 'window_end': 1759899200})
+
+Finding(load_id='LOAD_134', finding_type=<FindingType.LATE_PICKUP: 'late_pickup'>, severity=<Severity.ACT: 'act'>, evidence={'late_by_min': 120, 'pickup_complete_ts': 1759920800, 'window_end': 1759913600})
+
+Finding(load_id='LOAD_135', finding_type=<FindingType.LATE_PICKUP: 'late_pickup'>, severity=<Severity.ACT: 'act'>, evidence={'late_by_min': 45, 'pickup_complete_ts': 1759973900, 'window_end': 1759971200})
+
+Finding(load_id='LOAD_136', finding_type=<FindingType.NO_SHOW_RISK: 'no_show_risk'>, severity=<Severity.WATCH: 'watch'>, evidence={'window_start': 1759996400, 'lookback_hours': 3})
+
+Finding(load_id='LOAD_137', finding_type=<FindingType.NO_SHOW_RISK: 'no_show_risk'>, severity=<Severity.WATCH: 'watch'>, evidence={'window_start': 1759998200, 'lookback_hours': 3})
+
+Finding(load_id='LOAD_140', finding_type=<FindingType.DETENTION_RISK: 'detention_risk'>, severity=<Severity.WATCH: 'watch'>, evidence={'arrived_ts': 1759974800, 'window_start': 1759985600, 'lookback_hours': 2})
+
+Finding(load_id='LOAD_138', finding_type=<FindingType.MISSING_GPS: 'missing_gps'>, severity=<Severity.WATCH: 'watch'>, evidence={'latest_ping': 1759967600})
+
+Finding(load_id='LOAD_139', finding_type=<FindingType.MISSING_GPS: 'missing_gps'>, severity=<Severity.WATCH: 'watch'>, evidence={'latest_ping': None})
+
+Finding(load_id='CAR_04', finding_type=<FindingType.REPEAT_OFFENDER: 'repeat_offender'>, severity=<Severity.WATCH: 'watch'>, evidence={'carrier_id': 'CAR_04'})
+
